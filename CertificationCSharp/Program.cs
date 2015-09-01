@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CertificationCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //opa com oe que é?
+        }
+    }
+}
